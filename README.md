@@ -36,7 +36,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jQuery&logoColor=0769AD)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=Firebase&logoColor=F29D0C)
  
 
