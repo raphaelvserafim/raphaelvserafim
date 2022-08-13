@@ -1,8 +1,8 @@
 ### Hi 👋
 
- 
 
- <p>
+
+<p>
 <a href="https://wa.me/5566996852025" target="_blank"> 
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="+55 66 99685-2025"/> 
 </a>
@@ -42,6 +42,7 @@
 </div>
 </p>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelvserafim&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelvserafim" /></p>
 
 <div>
 <a href="https://github.com/raphaelvserafim">
@@ -54,6 +55,5 @@
  
 ![Snake animation](https://github.com/raphaelvserafim/raphaelvserafim/blob/output/github-contribution-grid-snake.svg)
  
-
-
  
+
